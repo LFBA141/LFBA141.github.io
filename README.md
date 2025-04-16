@@ -1,2 +1,2 @@
 # LFBA141.github.io
-Pagina Prueba
+Pagina Prueba de GitHub Pages
